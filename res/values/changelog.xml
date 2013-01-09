@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="la_changelog">
+
+&lt;b>Version 0.7:&lt;/b>&lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+-Updated sources LauncherAdvaned 0.7 &lt;br>
+-Amended images at the source &lt;br>
+-Adjusted size of icons in the dock does not compress Android grid &lt;br>
+-Fixed words in some languages &lt;br>
+-Taken all work in ADW, now being only LauncherAdvanced &lt;br>
+
+&lt;b>Version 0.6:&lt;/b>&lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+-Updated sources LauncherAdvanced 0.6 &lt;br>
+-Used open sources AnderWeb - thanks &lt;br>
+-Standardized desktop
+-Fixed icons with good size
+-5 Icons to the dock with 2 open
+-Grid apps as standard in Horizontal
+-Deleted folders and things that make heavy and does not need
+
+</string>
+</resources>

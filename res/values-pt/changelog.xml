@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="la_changelog">
+
+&lt;b>Versão 0.8:&lt;/b>&lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+-Atualizado fontes LauncherAdvanced 0.8 &lt;br>
+-Corrigido todos idiomas, agora tudo está traduzido &lt;br>
+
+&lt;b>Versão 0.7:&lt;/b>&lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+-Atualizado fontes LauncherAdvaned 0.7 &lt;br>
+-Alterado Imagens direto na fonte &lt;br>
+-Ajustado tamanho dos icones na dock para não comprimir os apps da grade &lt;br>
+-Corrigido palavras em alguns idiomas &lt;br>
+-Retirado todo o trabalho em ADW, agora sendo somente LauncherAdvanced &lt;br>
+
+&lt;b>Versão 0.6:&lt;/b>&lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+-Atualizado fontes LauncherAdvanced 0.6 &lt;br>
+-Usada fontes abertas AnderWeb - obrigado &lt;br>
+-Padronizado área de trabalho &lt;br>
+-Icones fixos com bom tamanho &lt;br>
+-5 icones para a dock com 2 em aberto &lt;br>
+-Grade de apps em Horizontal como padrão &lt;br>
+-Excluído pastas e coisas que tornam pesado e não tem necessidade &lt;br>
+
+</string>
+</resources>
